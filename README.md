@@ -14,8 +14,8 @@ But, if pressed, how would you prove it?
 
 
 
-
-Part I - WeatherPy
+----------------------------
+# Part I - WeatherPy
 
 In this example, we'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, we'll be utilizing a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
 
@@ -48,7 +48,8 @@ Our final notebook includes:
     Randomly select at least 500 unique (non-repeat) cities based on latitude and longitude.
     Perform a weather check on each of the cities using a series of successive API calls.
     Include a print log of each city as it's being processed with the city number and city name.
-    Save a CSV of all retrieved data and a PNG image for each scatter plot. (Images saved in the Output and Output2 Folders within the WeatherPy folder) 
+    Save a CSV of all retrieved data and a PNG image for each scatter plot. 
+    (Images saved in the Output and Output2 Folders within the WeatherPy folder) 
 
 
 ------------------------------------    
