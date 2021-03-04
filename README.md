@@ -55,9 +55,11 @@ Our final notebook includes:
 ------------------------------------    
 # Part II - VacationPy
 
-We'll use skills in working with weather data to plan future vacations. Use jupyter-gmaps and the Google Places API for this part of the assignment.
+Next, we'll expand our efforts in working with weather data to plan future vacations. We'll use jupyter-gmaps and the Google Places API for this part of the assignment.
 
-    Create a heat map that displays the humidity for every city from the part I of the homework.
+We will further:
+
+    Create a heat map that displays the humidity for every city from the part I of the project. 
 
     Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
