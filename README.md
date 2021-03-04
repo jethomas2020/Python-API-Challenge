@@ -1,11 +1,18 @@
 # Python-API-Challenge
 
-
-DEAR GRADER: DUE TO EXTENSION By Instructor to next week, I hope to redo this!! - thanks! 
-
-What's the Weather Like?
+-------------------------
+# What's the Weather Like?
 
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. We'll take a look at Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
+
+
+# Web_Scraping_Challenge
+
+------------------
+
+# Mission to Mars
+
+![Alt text](mission_to_mars.png "Mission to Mars")
 
 Part I - WeatherPy
 
