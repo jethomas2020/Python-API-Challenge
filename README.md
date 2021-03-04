@@ -89,5 +89,5 @@ Narrow down the DataFrame to find our ideal weather condition. For example:
 
 Used Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
-Plotted the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+Plotted the hotels on top of the humidity heatmap. Images are stored in Output3 Folder within the VacationPy Folder. 
     
