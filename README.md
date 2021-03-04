@@ -6,11 +6,9 @@
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. We'll take a look at Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 
 
-# Web_Scraping_Challenge
 
-------------------
+![Alt text](equatorsign.png "Equator Sign")
 
-# Mission to Mars
 
 ![Alt text](mission_to_mars.png "Mission to Mars")
 
