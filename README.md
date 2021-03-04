@@ -51,6 +51,18 @@ Our final notebook includes:
     Save a CSV of all retrieved data and a PNG image for each scatter plot. 
     (Images saved in the Output and Output2 Folders within the WeatherPy folder) 
 
+---------------------
+## For Part I,  a few observable trends based on the data:
+
+1. In the scatter plot for City Latitude vs. Maximum Temperature above, as cities are closer to the equator (where latitude is 0 degrees), the higher the maximum temperature.
+
+2. In the scatter plot for City Latitude vs. Humidity above, there is no strong correlation that can be seen. The data does show that cities that are in the Northern Hemisphere (latitude >0 degree) tend to have a stronger cluster of higher humidity percentages as it nears the North Pole. 
+
+3. In the scatter plot for City Latitude vs. Cloudiness above, there is no strong correlation that can be seen. The data does show scattered clusters of higher cloudiness percentages at the top right and bottom right, as well as top left, without being able to draw strong conclusions.
+
+4. In the scatter plot for City Latitude vs. Wind Speed above, there is no strong correlation that can be seen. 
+The data does show clusters of higher wind speed (mph) at the bottom of the chart across the spectrum of city latitudes without being able to draw strong conclusions. The majority of the wind speeds overall appear to 15mph or less. One oulier at >40mph is visible at around 70 degrees latitude closer to teh North Pole.
+
 
 ------------------------------------    
 # Part II - VacationPy
@@ -59,10 +71,23 @@ Next, we'll expand our efforts in working with weather data to plan future vacat
 
 We will further:
 
+
     Create a heat map that displays the humidity for every city from the part I of the project. 
+   
 
-    Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
+Narrow down the DataFrame to find our ideal weather condition. For example:
 
-    Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+    A max temperature lower than 80 degrees but higher than 70.
 
-    Hotel map
+    Wind speed less than 10 mph.
+
+    Zero cloudiness.
+
+    Drop any rows that don't contain all three conditions. We want to be sure the weather is ideal.
+
+ 
+
+Used Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
+
+Plotted the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+    
