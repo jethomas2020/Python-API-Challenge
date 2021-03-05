@@ -26,7 +26,7 @@ We created a series of scatter plots to showcase the following relationships:
     Cloudiness (%) vs. Latitude
     Wind Speed (mph) vs. Latitude
     
-These plot images are stored within the Output Folder within the WeatherPy Folder. 
+These plot images are stored within the Output Folder.
 
 After each plot a sentence was added within the Jupyter Notebook file explaining our findings. 
 
@@ -49,7 +49,7 @@ Our final notebook includes:
     Perform a weather check on each of the cities using a series of successive API calls.
     Include a print log of each city as it's being processed with the city number and city name.
     Save a CSV of all retrieved data and a PNG image for each scatter plot. 
-    (Images saved in the Output and Output2 Folders within the WeatherPy folder) 
+    (Images saved in the Output and Output2 Folders) 
 
 ---------------------
 ## For Part I,  a few observable trends based on the data:
@@ -89,5 +89,8 @@ Narrow down the DataFrame to find our ideal weather condition. For example:
 
 Used Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
-Plotted the hotels on top of the humidity heatmap. Images are stored in Output3 Folder within the VacationPy Folder. 
+Plotted the hotels on top of the humidity heatmap. Images are stored in Output3 Folder.
+
+-----------------------
+## Safe & Happy Travels!! 
     
